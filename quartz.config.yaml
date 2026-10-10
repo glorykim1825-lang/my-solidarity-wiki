@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: my-solidarity-wiki.pages.dev
+  baseUrl: my-solidarity-wiki-81t.pages.dev
   ignorePatterns:
     - private
     - templates
